@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+}
+
+img{
+    width: 30%;
+}
+
+p{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    background-color:aquamarine;
+}
+
